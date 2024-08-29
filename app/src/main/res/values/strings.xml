@@ -1,0 +1,1069 @@
+<resources>
+    <string name="app_name">VikingGods</string>
+    <string name="start_screen">Vallhala</string>
+    <string name="loading_screen">Pantalla de carga</string>
+    <string name="loading">Cargando…</string>
+    <string name="viking_logo">Viking Logo</string>
+    <string name="button_to_gods_information">Button to Gods information</string>
+    <string name="button_to_history_information">Button to History information</string>
+    <string name="button_to_legends_information">Button to legends information</string>
+    <string name="button_to_map_information">Button to map information</string>
+    <string name="back_button">Atras</string>
+    <string name="gods">Dioses</string>
+    <string name="gods_inf">Dioses informacion</string>
+    <string name="gods_history">Historia</string>
+    <string name="myth_Yggdrasil">Yggdrasil y los Nueve Mundos</string>
+    <string name="myth_firstMan">Creación del hombre</string>
+    <string name="myth_asgard">Construcción de Asgard</string>
+    <string name="myth_aegir">El Banquete de Aegir</string>
+    <string name="myth_utgard">El Viaje de Thor a Utgard</string>
+    <string name="myth_hammerThor">El Robo del Martillo de Thor</string>
+    <string name="myth_judgment">El Juicio de los Dioses</string>
+    <string name="myth_Brísingamen">Freya y el Collar Brísingamen</string>
+    <string name="myth_fenrir">El Cautiverio de Fenrir</string>
+    <string name="myth_balder">La Muerte de Balder</string>
+    <string name="myth_loki">El Castigo de Loki</string>
+    <string name="myth_ragnarok">Ragnarok</string>
+    <string name="myth">Mitos</string>
+    <string name="myth_info">Mito</string>
+    <string name="map_viking">Mapa</string>
+    <string name="map_god">Mapa de los dioses</string>
+
+
+
+
+    //Gods History
+    //Odin
+    <string name="Odin_History">Odin, también conocido como el Allfather, es una de las figuras más \
+        prominentes y complejas de la mitología nórdica. Su carácter multifacético lo presenta como \
+        el dios de la sabiduría, la guerra, la poesía y la magia, entre otros aspectos. Como líder \
+        de los Æsir, la principal raza de dioses, Odin desempeña un papel central en las sagas \
+        y leyendas nórdicas.Odin es hijo de Bor y Bestla, y nieto de Buri, el primer ser divino \
+        creado a partir del hielo primordial de Ginnungagap. Tiene dos hermanos, Vili y Ve, con \
+        quienes participó en la creación del mundo a partir del cuerpo del gigante Ymir. Juntos, \
+        los hermanos formaron Midgard (el mundo de los humanos), utilizando la carne de Ymir para \
+        la tierra, su sangre para los océanos, sus huesos para las montañas y su cráneo para el cielo. \
+        Odin está casado con Frigg, la diosa del amor, el matrimonio y la maternidad. Con ella tuvo \
+        varios hijos, siendo los más conocidos Thor, el dios del trueno, Balder, el dios de la luz y \
+        la belleza, y Hod, el dios ciego. Además de sus hijos con Frigg, Odin tuvo otros hijos con \
+        diferentes consortes, incluyendo a Vali con Rindr y Vidar con la gigante Grid. Odin es \
+        ampliamente conocido por su búsqueda incansable de conocimiento y sabiduría. Este aspecto de\
+        su personalidad se manifiesta en varias historias y mitos. Uno de los relatos más significativos \
+        es el de su sacrificio en el pozo de Mimir. Para obtener la sabiduría que el pozo ofrecía, Odin\
+        sacrificó uno de sus ojos, arrojándolo al agua como pago. Este acto no solo le otorgó una visión \
+        profunda y conocimientos místicos, sino que también lo hizo conocido por llevar un parche en el ojo. \
+        Otra historia importante es la de su autosacrificio en Yggdrasil, el árbol del mundo. Odin se colgó \
+        del árbol durante nueve días y nueve noches, atravesado por su propia lanza, Gungnir, para \
+        descubrir los secretos de las runas, los símbolos mágicos que contenían poderosas fuerzas. \
+        Este sacrificio le permitió dominar las runas y, con ellas, adquirir vastos conocimientos y \
+        habilidades mágicas. Como dios de la guerra, Odin es reverenciado por los guerreros vikingos, \
+        quienes le rezaban antes de las batallas para obtener su favor. Se le conoce por seleccionar a \
+        los guerreros más valientes caídos en combate para llevárselos a Valhalla, su majestuosa sala en \
+        Asgard. Estos guerreros, conocidos como einherjar, se preparan para luchar junto a Odin en el \
+        Ragnarok, la batalla del fin del mundo. Odin es acompañado por dos cuervos, Huginn y Muninn, \
+        cuyas funciones son volar por el mundo cada día y regresar por la noche para informar a Odin \
+        de todo lo que han visto y oído. Estos cuervos simbolizan el pensamiento y la memoria,\
+        respectivamente, y son esenciales para la capacidad de Odin de mantenerse informado sobre \
+        todos los acontecimientos en los nueve mundos. Además de los cuervos, Odin tiene dos lobos, \
+        Geri y Freki, quienes lo acompañan y le sirven como compañeros leales. Odin también monta a \
+        Sleipnir, su caballo de ocho patas, considerado el mejor y más rápido de todos los caballos,\
+        capaz de viajar entre los mundos con gran velocidad. Odin también es el dios de la poesía y \
+        la magia. Se dice que obtuvo el hidromiel de la poesía tras una serie de engaños y artimañas, \
+        lo que le permitió inspirar a los poetas y bardos. Esta bebida sagrada le otorgó el poder de\
+        la palabra y la creatividad, elementos esenciales en la cultura nórdica. En términos de magia\
+        , Odin es un maestro del seidr, una forma de magia que implica profecía y control sobre el \
+        destino. Esta práctica mágica era tradicionalmente asociada con las mujeres, pero Odin desafió\
+        estas convenciones al aprender y practicar el seidr, destacando su habilidad para trascender \
+        los límites y obtener poder y conocimiento a cualquier costo. Odin está destinado a jugar un \
+        papel crucial en el Ragnarok, la batalla final entre los dioses y los gigantes que resultará\
+        en la destrucción del mundo. Según las profecías, Odin será devorado por Fenrir, el lobo gigante\
+        hijo de Loki. Sin embargo, su muerte no será en vano, ya que sus hijos Vidar y Vali vengarán \
+        su caída, ayudando a dar paso a la renovación del mundo tras el apocalipsis.El legado de Odin \
+        es inmenso, y su influencia se extiende más allá de la mitología nórdica. Ha inspirado \
+        numerosas obras de arte, literatura y cultura popular, consolidándose como una de las figuras\
+        más poderosas y veneradas de la mitología universal. Su búsqueda de sabiduría, su dominio de \
+        la guerra y la magia, y su papel como líder de los dioses lo convierten en un personaje \
+        profundamente complejo y fascinante.Odin, con su ojo sacrificado, su lanza Gungnir, sus cuervos\
+        y lobos, y su trono en Asgard, sigue siendo un símbolo de poder, conocimiento y misterio, \
+        capturando la imaginación de aquellos que exploran las leyendas y mitos de los antiguos vikingos.</string>
+
+    <string name="Odin_Power">Odin es conocido por su infinita sabiduría y conocimiento. Su búsqueda\
+        de saber lo llevó a sacrificar uno de sus ojos en el pozo de Mimir a cambio de la sabiduría mística \
+        que este ofrecía. Este sacrificio le otorgó una visión profunda y la capacidad de ver más allá \
+        del tiempo y el espacio. Además, su autosacrificio en Yggdrasil, el árbol del mundo, le \
+        permitió descubrir los secretos de las runas, símbolos mágicos que contienen poderosas fuerzas.\
+        Estas runas le concedieron un conocimiento arcano y la habilidad de utilizar la magia. Posee\
+        el don de la profecía y la capacidad de ver el futuro. Este poder le permite anticipar eventos \
+        y preparar a los dioses y a sí mismo para el Ragnarok, la batalla final. Su capacidad de profecía\
+        está íntimamente ligada a su sacrificio en Yggdrasil y su conocimiento de las runas, que le\
+        otorgan visiones y entendimiento de los eventos futuros. Es un maestro del seidr, una forma \
+        de magia nórdica que implica profecía, hechicería y control sobre el destino. Porta la lanza\
+        Gungnir, que nunca falla en su objetivo, y monta a Sleipnir, su caballo de ocho patas, que\
+        puede viajar entre los mundos con gran velocidad. Odin es también el líder de los einherjar, \
+        los guerreros caídos más valientes, a quienes recoge en el campo de batalla y lleva a Valhalla.\
+        Está constantemente acompañado por sus dos cuervos, Huginn (pensamiento) y Muninn (memoria), \
+        que vuelan por los nueve mundos y regresan para informarle de todo lo que han visto y oído.\
+        Estos cuervos son extensiones de su conciencia, permitiéndole estar al tanto de todos los \
+        acontecimientos. Además, Odin tiene dos lobos, Geri y Freki, que lo acompañan y simbolizan\
+        su poder y ferocidad. Posee la habilidad de cambiar de forma y transformarse en diferentes seres.</string>
+
+    <string name="Odin_Myth">Odin, el Allfather, es una figura central en la mitología nórdica, \
+        conocido por su sabiduría, poder y destreza en la guerra. Su búsqueda de conocimiento lo llevó \
+        a sacrificar uno de sus ojos en el pozo de Mimir para obtener sabiduría mística, y a colgarse \
+        del árbol del mundo, Yggdrasil, durante nueve días y noches para descubrir los secretos de las \
+        runas, otorgándole vastos conocimientos mágicos. En su deseo de obtener el hidromiel de la poesía,\
+        Odin se transformó en Bolverk y trabajó para Baugi, finalmente seduciendo a Gunnlod y escapando \
+        con el hidromiel en forma de águila. Odin también robó el fuego sagrado para dárselo a la humanidad,\
+        demostrando su disposición a arriesgarse por el bien común. Junto a sus hermanos Vili y Ve, \
+        creó al primer hombre y mujer, Ask y Embla, otorgándoles vida, razón y sentidos. En viajes a Jotunheim,\
+        Odin desafió al gigante Vafthrudnir en un concurso de sabiduría, demostrando su inteligencia y\
+        astucia. En el apocalíptico Ragnarok, Odin liderará a los dioses contra los gigantes, enfrentándose \
+        a Fenrir, aunque está destinado a ser devorado por el lobo. Su hijo Vidar vengará su muerte, simbolizando\
+        la esperanza de un renacimiento tras la destrucción. Odin también jugó un papel crucial en la \
+        guerra entre los Æsir y los Vanir, negociando la paz y el intercambio de rehenes que unió \
+        a las dos razas de dioses. Como dios de la guerra, selecciona a los guerreros más valientes \
+        caídos en batalla para convertirlos en einherjar, quienes entrenan en Valhalla para luchar \
+        junto a él en el Ragnarok.</string>
+
+    <string name="Odin_Relation">Odin, hijo de Bor y la giganta Bestla, es hermano de Vili y Ve. Está\
+        casado con Frigg, con quien tiene a Balder, Hod y Hermod. Con Jord, otra consorte, tiene a Thor. \
+        Con Rindr tiene a Vali, y con Grid tiene a Vidar. Odin también tiene nietos, incluyendo a Modi, \
+        Magni y Thrud, hijos de Thor. Aunque no es un hijo biológico, Loki es considerado un "hermano" \
+        de sangre de Odin debido a un pacto de hermandad entre ellos. Odin es el líder de los Æsir, la \
+        principal raza de dioses en la mitología nórdica, que incluye a muchas deidades importantes como\
+        Tyr y Heimdall.</string>
+
+
+    //Thor
+    <string name="Thor_History">Thor, hijo de Odin, el Allfather, y Jord, la personificación de la \
+        tierra, es uno de los dioses más poderosos y venerados en la mitología nórdica. Como dios \
+        del trueno, la fuerza, las tormentas y la protección, Thor es el principal defensor de Asgard,\
+        el reino de los dioses, y Midgard, el mundo de los humanos, contra las fuerzas del caos,\
+        incluidos los gigantes y otras criaturas hostiles. Es conocido por su valentía indomable y\
+        su compromiso inquebrantable para proteger a los dioses y a la humanidad. Thor es representado\
+        como una figura imponente, con una larga barba roja y una constitución robusta que refleja su\
+        fuerza física incomparable. Es el portador de Mjölnir, un martillo mágico forjado por los enanos\
+        Sindri y Brokkr, que es su arma más emblemática. Mjölnir tiene la capacidad de invocar truenos\
+        y relámpagos, y siempre regresa a la mano de Thor después de ser lanzado. Este martillo no \
+        solo es un arma de destrucción contra sus enemigos, sino también un símbolo de protección, \
+        usado para bendecir ceremonias sagradas, como matrimonios y funerales, y para consagrar nuevos\
+        nacimientos y hogares. Para manejar el inmenso poder de Mjölnir, Thor utiliza un par de \
+        guanteletes de hierro llamados Járngreipr, que le permiten empuñar el martillo sin sufrir \
+        daño. Además, lleva un cinturón de fuerza llamado Megingjörð, que tiene la capacidad de doblar\
+        su fuerza, ya de por sí formidable, haciéndolo prácticamente invencible en el combate. Thor \
+        viaja en un carro tirado por dos cabras, Tanngrisnir y Tanngnjóstr, que pueden ser sacrificadas\
+        y luego revividas cada noche, lo que le permite moverse rápidamente a donde se necesite su\
+        presencia, ya sea para proteger Asgard o para intervenir en los asuntos de Midgard. En su \
+        vida personal, Thor está casado con Sif, una diosa asociada con la fertilidad y la tierra, \
+        conocida por su hermoso cabello dorado que simboliza las cosechas. Juntos tienen varios hijos,\
+        incluidos Modi y Magni, quienes heredan su fuerza y coraje, y Thrud, su hija, que también se\
+        menciona en las sagas. Thor es también padre de Magni con la giganta Járnsaxa, lo que destaca\
+        su conexión con diferentes linajes dentro de la mitología nórdica.</string>
+
+
+    <string name="Thor_Power">Su fuerza física es incomparable, permitiéndole enfrentarse a gigantes\
+        y criaturas monstruosas sin igual. Un símbolo clave de su poder es Mjölnir, su martillo mágico,\
+        capaz de destruir enemigos con un solo golpe y regresar a su mano tras ser lanzado. Mjölnir \
+        invoca truenos y relámpagos, lo que lo convierte en un arma temida por adversarios y una \
+        herramienta de protección divina. Además de Mjölnir, posee un cinturón llamado Megingjörð, \
+        que duplica su fuerza cuando lo usa, haciéndolo imparable en combate. Para manejar el martillo,\
+        utiliza guanteletes de hierro llamados Járngreipr, necesarios debido al inmenso poder del arma. \
+        La resistencia del dios del trueno es otro de sus atributos destacables. Es casi invulnerable,\
+        soportando grandes cantidades de daño y luchando durante largos períodos sin agotarse. Su capacidad\
+        para resistir venenos y heridas graves lo convierte en uno de los guerreros más formidables. \
+        También tiene la capacidad de bendecir y proteger a los humanos y sus hogares, utilizando \
+        Mjölnir en ceremonias sagradas, mostrando así su poder no solo como guerrero, sino también\
+        como protector divino. El control sobre los elementos naturales, especialmente las tormentas,\
+        es otra manifestación de su poder. Puede convocar rayos y truenos a voluntad, reflejando su \
+        dominio sobre las fuerzas de la naturaleza. Este control elemental simboliza su capacidad para\
+        mantener el orden en el cosmos frente al caos. En resumen, su poder abarca una fuerza física\
+        abrumadora, habilidades mágicas con Mjölnir, una resistencia casi sobrehumana, y un control\
+        sobre los elementos naturales, consolidándolo como una de las deidades más poderosas y respetadas.</string>
+
+
+    <string name="Thor_Myth">Thor es protagonista de numerosos mitos en la mitología nórdica, destacando\
+        por su valentía y fuerza. Uno de los más famosos es su enfrentamiento con Jörmungandr, la \
+        serpiente de Midgard, con quien está destinado a matarse mutuamente durante el Ragnarok. Otro\
+        mito popular es el "Robo del Martillo de Thor", donde el gigante Thrym roba Mjölnir y exige \
+        a Freya como esposa a cambio. Thor, disfrazado de Freya, recupera su martillo y mata a Thrym\
+        y a los gigantes presentes. En otra historia, Thor viaja a Jotunheim con Loki y varios compañeros,\
+        donde es engañado por el gigante Utgard-Loki en desafíos que prueban su fuerza, como intentar\
+        levantar a un gato gigante que resulta ser Jörmungandr disfrazado. Además, en el Ragnarok, \
+        Thor lucha heroicamente contra Jörmungandr, logrando matar a la serpiente, pero sucumbiendo\
+        al veneno que esta le lanza, cumpliendo así su destino. Estos mitos reflejan su papel como \
+        defensor de Asgard y Midgard, y su carácter indomable y protector.</string>
+
+
+    <string name="Thor_Relation">Thor es hijo de Odin, el Allfather, y de Jord, la personificación \
+        de la tierra. Está casado con Sif, una diosa asociada con la fertilidad y la tierra, con \
+        quien tiene varios hijos: Modi y Magni, conocidos por heredar su fuerza, y Thrud, su hija. \
+        Además, Thor tiene un hijo llamado Magni con la giganta Járnsaxa. En cuanto a su relación\
+        con otros dioses, es medio hermano de Balder y Hod, hijos de Odin y Frigg. También tiene un \
+        vínculo cercano con Loki, aunque no es de sangre, ya que Loki es un "hermano" adoptivo por\
+        juramento de Odin, lo que lo hace parte de la familia de los Æsir.</string>
+
+
+    //Loki
+    <string name="Loki_History">Loki es una de las figuras más complejas y enigmáticas de la mitología\
+        nórdica. Hijo de los gigantes Farbauti y Laufey, Loki no es un dios en el sentido tradicional, \
+        pero es considerado una figura divina debido a su asociación con los Æsir y su juramento de\
+        hermandad con Odin. Loki es conocido como el dios del engaño, la astucia y la transformación.\
+        Aunque inicialmente es un compañero de los dioses, ayudándolos en numerosas ocasiones, también\
+        es responsable de causar grandes tragedias, incluida la muerte de Balder. Su naturaleza dual\
+        lo convierte en un personaje que transita entre el bien y el mal, sembrando caos y cambio. Loki\
+        tiene la capacidad de cambiar de forma a voluntad, adoptando formas humanas, animales y monstruosas\
+        según le convenga. A lo largo de su historia, Loki juega un papel crucial en varios mitos, como\
+        el robo del collar de Freya, el engaño a los constructores del muro de Asgard, y la creación \
+        de los monstruos Fenrir, Jörmungandr y Hel, quienes desempeñarán roles importantes en el Ragnarok,\
+        la batalla del fin del mundo. Debido a sus acciones, Loki es finalmente capturado por los dioses\
+        y atado a una roca con las entrañas de su propio hijo, donde permanecerá hasta que el Ragnarok\
+        desate su furia una vez más.</string>
+
+    <string name="Loki_Power">Loki es un maestro de la transformación y la magia, con la capacidad de \
+        cambiar su forma a voluntad, adoptando las apariencias de diversos seres, desde animales hasta\
+        figuras humanas e incluso monstruos. Este poder le permite engañar tanto a dioses como a gigantes, \
+        manipulando los eventos a su favor. Loki es también increíblemente astuto y carismático, utilizando\
+        su inteligencia para salir de situaciones difíciles y para influir en los demás. Aunque no es\
+        un dios guerrero, su habilidad para la manipulación y el engaño lo convierten en una figura \
+        poderosa en la mitología nórdica. Es el responsable de engendrar a varios seres míticos y temibles,\
+        como Fenrir, el lobo gigante; Jörmungandr, la serpiente de Midgard; y Hel, la gobernante del\
+        inframundo, quienes jugarán papeles cruciales en el Ragnarok. Loki también es conocido por su\
+        capacidad para crear caos y desorden, usando su magia para alterar el curso de los eventos y\
+        desestabilizar el orden establecido. Su poder, aunque no siempre es destructivo, es impredecible\
+        y está ligado a su naturaleza voluble y cambiante.</string>
+
+    <string name="Loki_Myth">Loki es protagonista de numerosos mitos que subrayan su papel como el dios\
+        del engaño y la transformación. Uno de los mitos más conocidos es su participación en la muerte\
+        de Balder, donde Loki engaña al dios ciego Hod para que lance una rama de muérdago que mata a\
+        Balder, desencadenando una serie de eventos que conducirán al Ragnarok. Otro mito famoso es el\
+        engaño que llevó a la construcción del muro de Asgard. Loki, en un intento de evitar pagarle \
+        al gigante constructor, se transforma en una yegua y distrae al caballo del gigante, lo que \
+        resulta en el nacimiento de Sleipnir, el caballo de ocho patas que se convierte en la montura\
+        de Odin. Loki también juega un papel crucial en la creación de los monstruos Fenrir, Jörmungandr\
+        y Hel, engendrados con la giganta Angrboda. Estos monstruos son predestinados a desempeñar \
+        roles clave en el Ragnarok, con Fenrir devorando a Odin, Jörmungandr luchando contra Thor, y \
+        Hel gobernando a los muertos. Finalmente, Loki es capturado por los dioses y atado con las\
+        entrañas de su propio hijo como castigo por sus crímenes, donde permanecerá hasta que el Ragnarok\
+        libere su furia una vez más.</string>
+
+    <string name="Loki_Relation">Loki es hijo de los gigantes Farbauti y Laufey, y hermano de Helblindi\
+        y Byleistr. Aunque es de origen gigante, Loki es aceptado entre los dioses de Asgard debido a \
+        su juramento de hermandad con Odin. Está casado con Sigyn, quien le es leal a pesar de sus \
+        engaños y traiciones, y juntos tienen dos hijos, Narfi y Vali. Además, Loki tiene una relación\
+        con la giganta Angrboda, con quien engendra a tres de los seres más temidos de la mitología\
+        nórdica: Fenrir, Jörmungandr y Hel. Estos hijos desempeñarán papeles cruciales en el Ragnarok,\
+        el fin del mundo. Loki también es medio hermano de Thor, a través de su juramento de hermandad\
+        con Odin, lo que lo conecta con la familia de los Æsir, aunque su relación con ellos es complicada\
+        y a menudo conflictiva. Su ambigua posición entre los dioses y los gigantes, así como su naturaleza\
+        voluble, hacen de Loki una figura única y central en la mitología nórdica.</string>
+
+
+
+    //Freya
+    <string name="Freya_History">Freya, hija de Njord, dios del mar, y hermana gemela de Freyr, es \
+        una de las diosas más importantes y veneradas de la mitología nórdica. Freya es la diosa del\
+        amor, la belleza, la fertilidad, la guerra y la muerte, y también es conocida por ser una practicante \
+        de seidr, una forma de magia que implica la profecía y el control del destino. Freya es descrita\
+        como una diosa extraordinariamente hermosa, con una naturaleza apasionada y valiente. Es la \
+        líder de las Valquirias, las doncellas guerreras que eligen a los guerreros más valientes caídos\
+        en batalla para llevarlos a su salón, Sessrúmnir, ubicado en Fólkvangr, un campo donde la mitad de\
+        los caídos son llevados para habitar con ella en la otra vida, mientras la otra mitad va a Valhalla\
+        con Odin. Freya es también la dueña del collar Brísingamen, una joya mágica que simboliza su poder\
+        y estatus. Su carro es tirado por gatos y es conocida por su capacidad de transformar y volar \
+        utilizando un manto de plumas de halcón. En su vida personal, Freya es mencionada como la esposa \
+        de Od, un dios o héroe que desapareció, dejándola en un profundo lamento. A menudo se le asocia\
+        con el llanto de lágrimas de oro o ámbar mientras busca a su esposo perdido, lo que refuerza su \
+        conexión con el amor y la tristeza.</string>
+
+    <string name="Freya_Power">Freya posee un vasto rango de poderes que la destacan en la mitología nórdica.\
+        Es una de las diosas más versátiles, con influencia sobre el amor, la belleza, la fertilidad,\
+        la guerra y la magia. Como diosa del amor y la fertilidad, Freya tiene la capacidad de influir\
+        en los corazones de dioses y mortales, y es invocada en rituales de fertilidad para asegurar \
+        la prosperidad de la tierra y las familias. Freya es también una poderosa practicante de seidr, \
+        una forma de magia asociada con la profecía y la manipulación del destino, habilidades que enseñó\
+        a los Æsir después de la guerra entre los Æsir y los Vanir. Además, Freya es una guerrera formidable\
+        y líder de las Valquirias, quienes seleccionan a los guerreros más valientes para llevárselos a\
+        Fólkvangr. Su collar Brísingamen no solo simboliza su belleza y estatus, sino que también se cree \
+        que posee propiedades mágicas. Freya tiene la capacidad de transformarse y volar, utilizando\
+        un manto de plumas de halcón para viajar entre los mundos. Su poder se extiende también a su \
+        capacidad de controlar y elegir a los caídos en batalla, demostrando su dominio tanto en la \
+        vida como en la muerte.</string>
+
+    <string name="Freya_Myth">Freya es una figura central en numerosos mitos de la mitología nórdica,\
+        donde su belleza, poder y valentía son destacados. Uno de los mitos más conocidos es el de la \
+        obtención de su collar mágico, Brísingamen, que consiguió tras pasar la noche con cuatro enanos\
+        que lo habían forjado. Este collar se convierte en un símbolo de su estatus y poder. Otro mito\
+        importante es su constante búsqueda de su esposo perdido, Od, durante la cual Freya viaja por\
+        los nueve mundos, llorando lágrimas de oro y ámbar, lo que refuerza su asociación con el amor\
+        y la tristeza. Freya también juega un papel crucial en el mito de la guerra entre los Æsir y los\
+        Vanir, donde fue enviada como rehén junto a su hermano Freyr y su padre Njord, marcando el comienzo\
+        de la paz entre los dos clanes de dioses. Además, es conocida por su papel en la selección de\
+        los guerreros caídos en batalla, llevándose a la mitad de ellos a su salón en Fólkvangr, mientras \
+        la otra mitad va a Valhalla con Odin.</string>
+
+    <string name="Freya_Relation">Freya es hija de Njord, el dios del mar, y hermana gemela de Freyr,\
+        el dios de la fertilidad y la prosperidad. Es parte del clan de los Vanir, un grupo de dioses\
+        asociados con la naturaleza, la fertilidad y la riqueza. Tras la guerra entre los Æsir y los \
+        Vanir, Freya fue enviada como rehén a Asgard junto con su padre y su hermano, marcando su \
+        integración en la familia de los dioses Æsir. En su vida personal, Freya es conocida por ser \
+        la esposa de Od, quien desapareció misteriosamente, dejándola en un estado de profundo lamento \
+        y búsqueda, lo que la conecta con temas de amor y pérdida. Freya también tiene dos hijas, Hnoss\
+        y Gersemi, que son símbolos de la belleza y el tesoro, reflejando los aspectos de Freya como\
+        diosa del amor y la riqueza. Como líder de las Valquirias y diosa de la guerra, Freya tiene \
+        un vínculo estrecho con Odin y las demás deidades guerreras.</string>
+
+
+    //Balder
+    <string name="Balder_History">Balder, hijo de Odin, el Allfather, y de Frigg, es uno de los dioses\
+        más venerados en la mitología nórdica, conocido por su belleza, pureza y bondad. Balder es el \
+        dios de la luz, la pureza, la justicia y el amor, y es amado por todos los dioses y criaturas\
+        de los nueve mundos. Es descrito como un dios de aspecto radiante, con una presencia que emana \
+        paz y nobleza. Sin embargo, a pesar de su naturaleza benévola, Balder está asociado con uno de\
+        los mitos más trágicos de la mitología nórdica: su muerte, que es vista como un presagio del\
+        Ragnarok, la batalla del fin del mundo. A raíz de sus terribles sueños premonitorios sobre la\
+        muerte de Balder, su madre, Frigg, hizo que todas las cosas del mundo juraran no hacerle daño,\
+        excepto por el muérdago, que consideró inofensivo. Sin embargo, Loki, el dios del engaño, \
+        descubrió esta omisión y engañó al dios ciego Hod para que lanzara una rama de muérdago contra\
+        Balder, matándolo instantáneamente. La muerte de Balder fue una pérdida devastadora para los \
+        dioses, y marcó el inicio de eventos que conducirían al Ragnarok.</string>
+
+    <string name="Balder_Power">Balder es conocido por sus atributos divinos de pureza, luz y justicia.\
+        Su presencia es tan luminosa que a menudo se le describe como un ser radiante que ilumina todo\
+        a su alrededor. Aunque no es un dios guerrero como Thor o Tyr, su poder reside en su capacidad \
+        para influir en los demás con su bondad y sabiduría. Balder es invulnerable a todas las cosas \
+        en el cosmos, excepto al muérdago, lo que se convirtió en su única debilidad. Esta invulnerabilidad\
+        fue un intento de su madre, Frigg, de protegerlo de cualquier daño tras tener sueños premonitorios \
+        sobre su muerte. Aunque su poder no se manifiesta en la fuerza física o en habilidades combativas,\
+        Balder es reverenciado por su papel como símbolo de la paz y la justicia. Su muerte prematura, \
+        causada por la única sustancia a la que era vulnerable, el muérdago, resalta tanto la tragedia\
+        como la importancia de su existencia en la mitología nórdica.</string>
+
+    <string name="Balder_Myth">El mito más conocido sobre Balder es el de su muerte, que representa \
+        uno de los eventos más trágicos y significativos en la mitología nórdica. Después de tener \
+        sueños premonitorios sobre la muerte de su hijo, Frigg hizo que todas las cosas vivientes y\
+        no vivientes en el cosmos juraran no hacerle daño a Balder. Sin embargo, omitió el muérdago,\
+        creyéndolo inofensivo. Loki, el dios del engaño, aprovechó esta debilidad y engañó al dios ciego \
+        Hod para que lanzara una rama de muérdago, matando a Balder. La muerte de Balder sumió a los \
+        dioses en el dolor y la desesperación, y su fallecimiento se convirtió en un presagio del Ragnarok,\
+        la batalla apocalíptica en la que muchos dioses, incluyendo Odin y Thor, encontrarían su fin. Los\
+        dioses intentaron recuperar a Balder del inframundo, pero su retorno fue negado, sellando su destino\
+        y marcando el inevitable camino hacia el fin de los tiempos.</string>
+
+    <string name="Balder_Relation">Balder es hijo de Odin, el Allfather, y de Frigg, la diosa del amor\
+        y el matrimonio. Es hermano de Hod, el dios ciego, y medio hermano de Thor, Vidar y Vali, entre \
+        otros. Balder está casado con Nanna, una diosa de la fidelidad, y juntos tienen un hijo llamado \
+        Forseti, quien se convierte en el dios de la justicia y la reconciliación. Tras la muerte de Balder,\
+        Nanna, consumida por el dolor, también muere y es enterrada junto a él en su barco funerario, \
+        que es enviado al mar en llamas como parte de las ceremonias fúnebres. Balder es un dios amado\
+        por todos, y su muerte es un evento trágico que afecta profundamente a su familia y a todos los\
+        dioses de Asgard, marcando un punto crucial en la mitología nórdica y presagiando el Ragnarok, \
+        la batalla final en la que muchos de sus familiares también encontrarían su destino.</string>
+
+
+    //Frigg
+    <string name="Frigg_History">Frigg, también conocida como Frigga, es la esposa de Odin y la reina \
+        de Asgard en la mitología nórdica. Es la diosa del amor, el matrimonio, la maternidad y la \
+        fertilidad, y es una de las deidades más veneradas entre los Æsir. Frigg es conocida por su \
+        sabiduría y su capacidad para ver el destino de todos los seres, aunque guarda en secreto lo\
+        que conoce, incluso de su esposo Odin. A menudo se la representa tejiendo los hilos del destino\
+        en su telar, lo que subraya su asociación con el control del destino y la vida de los mortales.\
+        Frigg es madre de Balder, el dios de la luz, y de Hod, el dios ciego, además de ser la madrastra\
+        de Thor y otros dioses importantes en el panteón nórdico. Uno de los mitos más conocidos sobre\
+        Frigg es su intento de proteger a su hijo Balder de la muerte, al hacer que todas las cosas en\
+        el mundo juraran no hacerle daño, excepto el muérdago, lo que finalmente llevó a la trágica \
+        muerte de Balder. Su desesperación y dolor tras la pérdida de su hijo la convierten en una figura\
+        profundamente maternal y protectora, que busca el bienestar de su familia por encima de todo.</string>
+
+    <string name="Frigg_Power">Frigg posee una sabiduría profunda y la capacidad de ver el futuro, un \
+        don que la coloca entre las figuras más poderosas en el panteón nórdico. Sin embargo, a diferencia\
+        de otras deidades, Frigg elige no revelar lo que conoce sobre el destino, manteniendo el misterio\
+        y el secreto incluso entre los dioses. Su habilidad para manipular los hilos del destino a través\
+        de su telar simboliza su control sobre la vida y la muerte. Como diosa del amor, el matrimonio\
+        y la fertilidad, Frigg es invocada para bendecir matrimonios y proteger a las familias. Además,\
+        tiene una conexión especial con la maternidad, siendo la madre protectora de Balder, y su \
+        desesperación por la muerte de su hijo refleja su profundo amor y devoción. Aunque no es una \
+        diosa guerrera, su poder radica en su capacidad para influir en el destino y proteger a sus \
+        seres queridos a través de medios más sutiles y emocionales. Su papel como reina de Asgard y \
+        esposa de Odin también le otorga un estatus elevado entre los dioses, siendo una consejera clave\
+        y una figura de autoridad en el reino divino.</string>
+
+    <string name="Frigg_Myth">Uno de los mitos más destacados de Frigg es su intento de proteger a su\
+        hijo Balder de la muerte, que es uno de los eventos más trágicos y significativos en la mitología\
+        nórdica. Frigg, habiendo visto en sus visiones el destino de Balder, hizo que todas las cosas \
+        del mundo, vivas e inanimadas, juraran no hacerle daño, excepto el muérdago, que consideró \
+        inofensivo. Sin embargo, Loki descubrió esta debilidad y engañó al dios ciego Hod para que lanzara\
+        una rama de muérdago a Balder, matándolo. La muerte de Balder sumió a Frigg en un profundo dolor, \
+        y su desesperación es evidente en los intentos de los dioses por recuperar a Balder del inframundo,\
+        un esfuerzo que finalmente fracasa. Este mito subraya el papel de Frigg como una madre amorosa y\
+        protectora, así como su trágica impotencia ante el destino, a pesar de su habilidad para verlo.\
+        Frigg también aparece en otros mitos como una figura sabia y reservada, que asesora a Odin y\
+        actúa como mediadora entre los dioses.</string>
+
+    <string name="Frigg_Relation">Frigg es la esposa de Odin, el Allfather, y la reina de Asgard. Es \
+        la madre de Balder, el dios de la luz, y de Hod, el dios ciego, y también es la madrastra de\
+        otros dioses importantes como Thor y Vidar. Frigg es la hija de Fjörgynn, un ser divino de\
+        quien se sabe poco en la mitología nórdica. Como esposa de Odin, Frigg comparte el trono en \
+        Asgard y tiene una posición de poder e influencia significativa entre los dioses. Su relación \
+        con Balder es especialmente cercana, y su dolor por su muerte destaca su profundo amor maternal.\
+        \Frigg también mantiene una relación compleja con Loki, el dios del engaño, quien es responsable \
+        de la muerte de Balder. Aunque su relación con Odin es central en su historia, Frigg es una figura \
+        independiente y poderosa, capaz de influir en los asuntos divinos y en los destinos de dioses \
+        y mortales por igual.</string>
+
+
+    //Freyr
+    <string name="Freyr_History">Freyr, hijo de Njord y hermano gemelo de Freya, es uno de los dioses\
+        más importantes y venerados de la mitología nórdica, especialmente entre los Vanir, la tribu\
+        de dioses asociados con la fertilidad, la prosperidad y la naturaleza. Freyr es el dios de la\
+        fertilidad, la paz, la riqueza y el buen clima, y es considerado un protector de la humanidad,\
+        brindando abundancia y prosperidad. Es el gobernante de Alfheim, el reino de los elfos de la\
+        luz, que le fue entregado como regalo de los dioses. Freyr es conocido por su carácter amable\
+        y pacífico, lo que lo distingue de otros dioses guerreros. Sin embargo, también es un guerrero\
+        formidable cuando es necesario, conocido por su valentía en la batalla. Uno de los mitos más \
+        famosos asociados con Freyr es su amor por la gigante Gerðr, a quien vio desde lejos y por quien\
+        se enamoró profundamente. Envió a su sirviente Skirnir para cortejarla en su nombre, ofreciéndole\
+        regalos y finalmente logrando su mano en matrimonio. Este mito resalta el poder de Freyr como dios \
+        de la fertilidad y su capacidad para unir fuerzas opuestas. Freyr también es dueño de varios artefactos\
+        mágicos, incluidos el barco Skíðblaðnir, que siempre tiene viento favorable y puede ser plegado y\
+        guardado en una bolsa, y el jabalí Gullinbursti, que brilla con luz dorada y es más rápido que\
+        cualquier caballo.</string>
+
+    <string name="Freyr_Power">Freyr es el dios de la fertilidad, la prosperidad y el buen clima, y \
+        tiene la capacidad de asegurar cosechas abundantes y el bienestar de las personas. Como símbolo\
+        de la fertilidad, Freyr es invocado para bendecir matrimonios y asegurar la fecundidad de la\
+        tierra y los animales. Es también un dios de la paz y la prosperidad, asociado con la riqueza\
+        y el crecimiento material. Freyr posee varios artefactos mágicos que refuerzan su poder, incluyendo\
+        el barco Skíðblaðnir, que siempre navega con viento favorable y puede ser plegado y guardado\
+        en una bolsa, lo que demuestra su dominio sobre los elementos y la navegación. También posee \
+        el jabalí Gullinbursti, cuya velocidad y brillo dorado simbolizan la luz y la riqueza que Freyr \
+        trae al mundo. A pesar de ser un dios pacífico, Freyr también es un guerrero cuando es necesario.\
+        En el Ragnarok, se enfrenta a Surtr, el gigante de fuego, aunque lamentablemente se enfrenta \
+        a él sin su espada mágica, que había entregado a Skirnir, su sirviente, lo que lleva a su caída.\
+        Freyr es también el gobernante de Alfheim, el reino de los elfos de la luz, lo que subraya su\
+        conexión con la naturaleza y los seres luminosos.</string>
+
+    <string name="Freyr_Myth">Uno de los mitos más importantes sobre Freyr es su enamoramiento de la\
+        gigante Gerðr. Al verla desde lejos, Freyr quedó completamente cautivado por su belleza y, lleno\
+        de amor, envió a su sirviente Skirnir para cortejarla en su nombre. Skirnir ofreció a Gerðr \
+        regalos, incluida la espada mágica de Freyr, y la convenció de casarse con él, simbolizando \
+        la unión de fuerzas opuestas y la importancia de la fertilidad y el amor en la mitología nórdica.\
+        Otro mito significativo es la historia del barco Skíðblaðnir, un regalo de los enanos que siempre\
+        navega con viento favorable y puede ser plegado y guardado en una bolsa. Este barco es un símbolo\
+        del control de Freyr sobre los elementos y su capacidad para garantizar viajes seguros y prósperos.\
+        Además, en el Ragnarok, Freyr lucha valientemente contra Surtr, el gigante de fuego, aunque lo \
+        hace sin su espada mágica, lo que lleva a su muerte en la batalla. Este sacrificio final subraya\
+        la naturaleza compleja de Freyr como dios de la fertilidad y la paz, pero también como un guerrero\
+        dispuesto a luchar por el bien del cosmos.</string>
+
+    <string name="Freyr_Relation">Freyr es hijo de Njord, el dios del mar, y de una madre desconocida,\
+        y es hermano gemelo de Freya, la diosa del amor y la fertilidad. Es parte del clan de los Vanir,\
+        un grupo de dioses asociados con la naturaleza, la fertilidad y la riqueza. Después de la guerra\
+        entre los Æsir y los Vanir, Freyr, junto con su hermana Freya y su padre Njord, fue enviado \
+        como rehén a Asgard, donde se convirtió en una de las deidades más veneradas entre los Æsir.\
+        Freyr está casado con Gerðr, una gigante de gran belleza, lo que simboliza la unión entre diferentes\
+        fuerzas de la naturaleza. Aunque no tiene hijos conocidos, su influencia se extiende a través\
+        de su rol como dios de la fertilidad y la prosperidad. Freyr es también el gobernante de Alfheim,\
+        el reino de los elfos de la luz, y su conexión con estos seres luminosos subraya su relación \
+        con la naturaleza y la luz. Su sacrificio en el Ragnarok, donde lucha sin su espada mágica, es\
+        una parte importante de su legado, reflejando su papel como protector del orden cósmico.</string>
+
+
+    //Tyr
+    <string name="Tyr_History">Tyr es uno de los dioses más antiguos y venerados de la mitología nórdica,\
+        conocido principalmente como el dios de la guerra, la justicia y el honor. Es hijo de Odin, \
+        aunque algunas fuentes sugieren que podría ser hijo del gigante Hymir. Tyr es un dios asociado\
+        con la ley y el orden, siendo el encargado de mantener la justicia y la equidad entre los dioses\
+        y los mortales. Es famoso por su valentía y su disposición a sacrificarse por el bien común, \
+        lo que se refleja en el mito más conocido sobre él: el encadenamiento del lobo gigante Fenrir.\
+        Cuando los dioses decidieron encadenar a Fenrir para evitar que causara destrucción, solo Tyr\
+        fue lo suficientemente valiente como para colocar su mano en la boca del lobo como señal de \
+        buena fe. Sin embargo, cuando Fenrir se dio cuenta de que no podía liberarse, mordió la mano\
+        de Tyr, arrancándosela. A partir de ese momento, Tyr es representado como un dios manco, un \
+        símbolo de su sacrificio y su compromiso con la justicia y la protección de los dioses. A pesar \
+        de perder su mano, Tyr sigue siendo un dios poderoso y respetado, cuya valentía es un ejemplo\
+        para todos los dioses y mortales.</string>
+
+    <string name="Tyr_Power">Tyr es el dios de la guerra y la justicia, y su poder radica en su habilidad\
+        para mantener el orden y la ley tanto entre los dioses como entre los hombres. Es un guerrero\
+        valiente y hábil, conocido por su destreza en el combate y su disposición a luchar por la justicia.\
+        Aunque perdió su mano derecha al encadenar a Fenrir, este sacrificio solo aumentó su estatura\
+        como dios del honor y el coraje. Tyr es invocado en tiempos de guerra para garantizar la victoria \
+        y en tiempos de juicio para asegurar que la justicia prevalezca. Su conexión con la guerra no \
+        es solo en términos de batalla, sino también en la defensa del orden cósmico y la protección \
+        de los principios de equidad y verdad. A diferencia de otros dioses guerreros, Tyr es visto \
+        como un dios que lucha por principios y causas justas, y su sacrificio personal lo convierte\
+        en un símbolo de integridad y determinación.</string>
+
+    <string name="Tyr_Myth">El mito más famoso asociado con Tyr es el encadenamiento del lobo gigante\
+        Fenrir. Fenrir, uno de los hijos de Loki, creció hasta convertirse en una amenaza para los dioses,\
+        quienes intentaron encadenarlo con lazos mágicos. Sin embargo, Fenrir solo aceptó ser atado \
+        si uno de los dioses colocaba su mano en su boca como muestra de confianza. Tyr, conocido por\
+        su valentía y sentido del deber, fue el único dispuesto a hacer este sacrificio. Cuando Fenrir\
+        se dio cuenta de que no podía liberarse, mordió la mano de Tyr, arrancándosela. Este acto de\
+        sacrificio por parte de Tyr es un testimonio de su carácter y su compromiso con el bienestar \
+        de los dioses y el orden cósmico. A pesar de su pérdida, Tyr continúa siendo un dios poderoso\
+        y respetado, venerado por su coraje y su disposición a hacer lo que sea necesario para proteger\
+        a su comunidad. Otro mito menos conocido es su participación en el Ragnarok, donde se enfrenta\
+        al perro guardián Garm, un combate en el que ambos caen, destacando nuevamente su valor y su \
+        rol como protector en los tiempos más oscuros.</string>
+
+    <string name="Tyr_Relation">Tyr es generalmente considerado como hijo de Odin, aunque algunas tradiciones\
+        lo mencionan como hijo del gigante Hymir. A diferencia de muchos otros dioses nórdicos, Tyr \
+        no tiene una gran cantidad de relaciones familiares detalladas en los mitos, lo que refuerza \
+        su imagen como un dios solitario y dedicado principalmente a su papel de protector y defensor \
+        de la justicia. Tyr no es conocido por tener hijos, y sus relaciones con otros dioses se centran\
+        principalmente en su rol dentro del panteón como un defensor de la ley y el orden. Su sacrificio\
+        al perder su mano para encadenar a Fenrir subraya su compromiso con el bienestar de los dioses,\
+        y su relación con estos se basa en el respeto que le tienen por su valentía y sentido del deber.\
+        Aunque menos mencionado en comparación con dioses como Thor o Odin, Tyr sigue siendo una figura\
+        central en la mitología nórdica, conocido por su integridad y su disposición a sacrificar todo\
+        por el bien de los demás.</string>
+
+
+    //Heimdall
+    <string name="Heimdall_History">Heimdall es el dios guardián de la mitología nórdica, encargado \
+        de proteger Bifrost, el puente arcoíris que conecta Asgard, el reino de los dioses, con Midgard,\
+        el mundo de los humanos. Es hijo de nueve madres, todas ellas gigantes del mar, lo que le otorga\
+        una naturaleza única y una conexión especial con el mar y la tierra. Heimdall es conocido por\
+        su aguda visión y oído, que le permiten ver y escuchar todo lo que ocurre en los nueve mundos, \
+        incluso desde grandes distancias. Estas habilidades hacen de él el vigilante ideal, siempre \
+        atento a cualquier amenaza que se acerque a Asgard. Heimdall es también el portador del cuerno\
+        Gjallarhorn, con el que anunciará el inicio del Ragnarok, la batalla del fin del mundo. Su papel\
+        como guardián lo convierte en una de las figuras más importantes y respetadas entre los dioses, \
+        siendo fundamental en la defensa de Asgard contra las fuerzas del caos. A lo largo de la mitología,\
+        Heimdall es descrito como un dios justo y diligente, siempre fiel a su deber de proteger a los\
+        dioses y asegurar que el equilibrio en los nueve mundos se mantenga.</string>
+
+    <string name="Heimdall_Power">Heimdall posee una serie de habilidades extraordinarias que lo distinguen \
+        como uno de los dioses más poderosos y vigilantes de la mitología nórdica. Su visión es tan \
+        aguda que puede ver a cientos de kilómetros de distancia, incluso en la oscuridad más completa.\
+        Su oído es igualmente impresionante, capaz de captar los sonidos más leves, como el crecimiento\
+        de la hierba o el movimiento de una hoja. Estas habilidades lo hacen ideal para su rol como \
+        guardián de Bifrost, donde debe estar siempre alerta ante cualquier amenaza. Además de sus sentidos \
+        sobrehumanos, Heimdall es el portador de Gjallarhorn, un cuerno cuyo sonido se escucha en todos\
+        los rincones de los nueve mundos. Se dice que Heimdall tocará Gjallarhorn para anunciar el comienzo\
+        del Ragnarok, alertando a los dioses y a las criaturas de todos los reinos de la inminente batalla.\
+        Su fuerza y habilidades combativas también son formidables, y aunque es más conocido por su vigilancia,\
+        Heimdall es un guerrero capaz y está destinado a enfrentarse a Loki en el Ragnarok, en un duelo \
+        que resultará en la muerte de ambos. Como guardián de Asgard, Heimdall es un símbolo de protección,\
+        justicia y lealtad inquebrantable.</string>
+
+    <string name="Heimdall_Myth">Uno de los mitos más importantes sobre Heimdall es su papel como el \
+        guardián de Bifrost, el puente arcoíris que conecta Asgard con el resto de los nueve mundos. \
+        Su constante vigilancia asegura que ningún enemigo pueda entrar en Asgard sin ser detectado. \
+        Heimdall es también conocido por su futuro enfrentamiento con Loki durante el Ragnarok. Según \
+        las profecías, cuando los eventos del fin del mundo comiencen, Heimdall tocará Gjallarhorn para\
+        alertar a los dioses de la inminente batalla. En el Ragnarok, Heimdall y Loki se enfrentarán \
+        en un duelo mortal en el que ambos perecerán, cumpliendo su destino en la batalla final. Otro\
+        mito importante relacionado con Heimdall es su papel en la creación de las clases sociales \
+        humanas. Disfrazado de humano, Heimdall visitó a tres familias, dando lugar a las tres clases \
+        sociales: los siervos, los campesinos y los nobles. Este mito subraya su papel no solo como \
+        guardián, sino también como protector del orden social y divino en el mundo.</string>
+
+    <string name="Heimdall_Relation">Heimdall es el hijo de nueve madres, todas ellas gigantes del mar,\
+        lo que le otorga una naturaleza única y una conexión especial con los elementos marinos. Aunque\
+        no tiene una familia nuclear tradicional en el sentido de tener cónyuge o hijos conocidos, su\
+        relación más importante es con los dioses de Asgard, a quienes sirve fielmente como guardián.\
+        Es uno de los dioses más cercanos a Odin, quien confía en él para proteger el reino de los dioses\
+        y asegurar que el orden se mantenga en los nueve mundos. Heimdall es también el archienemigo\
+        de Loki, con quien está destinado a enfrentarse en el Ragnarok. Esta relación tensa y antagónica\
+        culmina en un duelo mortal entre ambos durante el fin del mundo. Aunque no tiene una red familiar\
+        extensa, su papel como guardián lo coloca en una posición central dentro del panteón nórdico,\
+        siendo respetado y valorado por su lealtad y dedicación.</string>
+
+
+    //Njord
+    <string name="Njord_History">Njord es uno de los dioses más importantes de la mitología nórdica,\
+        asociado con el mar, los vientos, la pesca y la prosperidad. Es uno de los Vanir, una tribu \
+        de dioses relacionados con la naturaleza y la fertilidad, y es el padre de Freya y Freyr, dos\
+        de las deidades más veneradas. Njord fue enviado a Asgard como rehén después de la guerra entre\
+        los Æsir y los Vanir, lo que marcó el final del conflicto y la integración de los dos clanes\
+        divinos. Es conocido por su habilidad para calmar el mar y controlar los vientos, asegurando \
+        viajes seguros y exitosos para los marineros. Njord es descrito como un dios benévolo y generoso,\
+        que trae riqueza y prosperidad a aquellos que lo veneran. Vive en Noatun, "la morada de los barcos",\
+        un lugar junto al mar que refleja su dominio sobre las aguas y su conexión con la navegación\
+        y la pesca. Aunque es un dios marino, Njord estuvo casado con Skadi, una giganta asociada con\
+        las montañas y el invierno. Su matrimonio fue infeliz debido a sus preferencias opuestas por \
+        el mar y las montañas, lo que llevó a su eventual separación. A pesar de esto, Njord sigue siendo\
+        una figura central en la mitología nórdica, especialmente en lo que respecta a la riqueza, la\
+        prosperidad y la naturaleza.</string>
+
+    <string name="Njord_Power">Njord posee un control absoluto sobre el mar, los vientos y la navegación,\
+        lo que lo convierte en el dios al que los marineros y pescadores nórdicos rezan para asegurar\
+        viajes seguros y cosechas abundantes del mar. Es capaz de calmar tempestades y crear vientos\
+        favorables, lo que le otorga un poder considerable sobre el comercio y la exploración marítima.\
+        Njord es también un dios de la prosperidad, capaz de otorgar riqueza y abundancia a sus devotos,\
+        y se le asocia con la fertilidad, la buena fortuna y el éxito. Su residencia en Noatun, cerca\
+        del mar, es un símbolo de su conexión con el agua y su capacidad para influir en las condiciones\
+        marinas. Aunque no es un dios guerrero, su poder sobre los elementos naturales lo convierte \
+        en una deidad formidable en su propio derecho, protegiendo a los navegantes y asegurando la \
+        prosperidad de los pueblos costeros. Njord es también invocado para bendecir matrimonios y \
+        asegurar la paz y la armonía en el hogar, reflejando su papel como una deidad de equilibrio y \
+        bienestar.</string>
+
+    <string name="Njord_Myth">Uno de los mitos más conocidos sobre Njord es su matrimonio con Skadi,\
+        la giganta asociada con las montañas y el invierno. Después de que los dioses mataran al padre\
+        de Skadi, ella exigió un esposo como compensación. Njord fue elegido, pero su matrimonio fue\
+        complicado debido a sus diferencias irreconciliables. Njord amaba el mar y deseaba vivir en \
+        su hogar en Noatun, mientras que Skadi prefería las montañas y la nieve de su hogar en Thrymheim.\
+        Intentaron vivir juntos en ambos lugares, pero finalmente acordaron separarse debido a su \
+        incapacidad para adaptarse a los deseos del otro. A pesar de esta separación, Njord sigue siendo\
+        una figura importante en la mitología nórdica, conocido por su capacidad para traer paz, prosperidad \
+        y buena fortuna. Otro mito destaca su papel en la pacificación de la guerra entre los Æsir y \
+        los Vanir, donde Njord, junto con sus hijos Freya y Freyr, fue enviado como rehén a Asgard, \
+        marcando el fin del conflicto y la integración de los dos clanes divinos.</string>
+
+    <string name="Njord_Relation">Njord es uno de los Vanir, y es padre de dos de las deidades más \
+        importantes de la mitología nórdica: Freya, la diosa del amor y la fertilidad, y Freyr, el dios \
+        de la fertilidad y la prosperidad. Aunque su esposa más conocida es Skadi, su matrimonio fue\
+        infeliz y terminaron separándose debido a sus diferencias irreconciliables en cuanto a sus \
+        preferencias por el mar y las montañas. Njord es también uno de los dioses que fueron enviados \
+        a Asgard como rehén después de la guerra entre los Æsir y los Vanir, lo que lo convirtió en \
+        una figura central en el panteón nórdico. A pesar de su separación de Skadi, Njord mantuvo su\
+        estatus como dios del mar y la prosperidad, y sigue siendo invocado por los marineros, pescadores\
+        y aquellos que buscan fortuna y éxito en sus empresas. Su relación con sus hijos Freya y Freyr\
+        también es fundamental, ya que juntos forman un núcleo importante de la religión y la mitología\
+        nórdicas, simbolizando la fertilidad, la abundancia y el bienestar.</string>
+
+
+    //Hel
+    <string name="Hel_History">Hel es una figura prominente en la mitología nórdica, conocida como la\
+        diosa del inframundo y gobernante del reino de los muertos que lleva su nombre, Helheim. Es \
+        la hija de Loki, el dios del engaño, y de la giganta Angrboda, lo que la convierte en hermana\
+        de los monstruos Fenrir y Jörmungandr. Hel fue arrojada al inframundo por Odin, quien la asignó\
+        a gobernar el reino donde van las almas de aquellos que mueren de enfermedad, vejez o causas\
+        no heroicas, en contraposición a Valhalla, donde van los guerreros caídos en combate. Hel es \
+        descrita como una figura sombría y temible, con un aspecto que refleja su naturaleza dual: \
+        una mitad de su cuerpo es de una mujer hermosa, mientras que la otra mitad está en un estado \
+        de descomposición, mostrando su conexión con la muerte y la decadencia. Su reino es un lugar\
+        frío y oscuro, donde las almas de los muertos viven una existencia sombría, lejos de la gloria\
+        de los salones de los dioses. Hel desempeña un papel crucial en el destino de los muertos y \
+        es una figura central en las profecías del Ragnarok, donde se dice que liderará un ejército \
+        de muertos en la batalla final contra los dioses.</string>
+
+    <string name="Hel_Power">Hel posee un control absoluto sobre el reino de los muertos, Helheim, \
+        donde gobierna con autoridad sobre las almas de aquellos que no han tenido una muerte heroica.\
+        Su poder es vasto y se extiende sobre todo lo relacionado con la muerte y el inframundo. Hel\
+        tiene la capacidad de retener las almas en su reino, y su autoridad es tal que incluso los \
+        dioses tienen dificultades para desafiarla. Uno de sus poderes más temidos es su capacidad para\
+        controlar y liberar a los muertos, un poder que se cree que jugará un papel crucial en el Ragnarok,\
+        cuando se espera que Hel libere a los muertos para unirse a las fuerzas del caos en la batalla\
+        final. Su presencia es siempre fría y aterradora, simbolizando la ineludible naturaleza de la\
+        muerte. Aunque su poder es considerable, Hel es una figura que opera desde las sombras, su influencia\
+        se siente en la inevitable atracción del inframundo sobre los mortales y la fragilidad de la \
+        vida.</string>
+
+    <string name="Hel_Myth">El mito más destacado de Hel es su dominio sobre Helheim, el reino de los\
+        muertos, donde recibe a las almas de aquellos que han muerto de vejez, enfermedad o de manera\
+        no heroica. En contraste con Valhalla, Helheim es un lugar sombrío y frío, reflejo del dominio\
+        de Hel sobre la muerte y la decadencia. Su reino es un lugar temido por los vivos, un destino\
+        inevitable para aquellos que no caen en batalla. Otro mito importante es su papel en las profecías\
+        del Ragnarok. Se dice que durante la batalla final, Hel liderará un ejército de muertos desde\
+        Helheim para luchar contra los dioses, lo que marca su influencia no solo sobre los muertos,\
+        sino también sobre el destino final del cosmos. Este mito subraya su poder y la importancia \
+        de su papel en el equilibrio entre la vida y la muerte en la mitología nórdica.</string>
+
+    <string name="Hel_Relation">Hel es la hija de Loki, el dios del engaño, y de la giganta Angrboda,\
+        lo que la convierte en hermana de Fenrir, el lobo gigante, y de Jörmungandr, la serpiente de\
+        Midgard. Aunque Hel no es tan activamente mencionada en las sagas como sus hermanos, su papel\
+        como gobernante del inframundo la coloca en una posición de poder dentro de la mitología nórdica.\
+        Su relación con los otros dioses es principalmente de respeto y temor, especialmente debido a\
+        su control sobre los muertos y su papel en las profecías del Ragnarok. Odin, consciente de su\
+        poder y la amenaza que representa, decidió enviarla al inframundo para evitar que su influencia\
+        se extendiera sobre los vivos. Aunque Hel no tiene una familia propia en los mitos, su conexión\
+        con la muerte y el inframundo la convierte en una figura de enorme importancia, ya que todo \
+        ser viviente, en última instancia, se enfrenta a su dominio. Su relación con Loki y sus hermanos\
+        también es significativa, especialmente en el contexto del Ragnarok, donde se espera que todos\
+        los hijos de Loki jueguen papeles decisivos en la batalla final contra los dioses.</string>
+
+
+    //Skadi
+    <string name="Skadi_History">Skadi es una diosa asociada con el invierno, la caza, las montañas y\
+        el esquí en la mitología nórdica. Es una giganta, hija del gigante Thjazi, y se destaca por \
+        su fuerza, independencia y conexión con la naturaleza salvaje. Skadi es conocida por su venganza\
+        contra los dioses de Asgard después de la muerte de su padre, Thjazi, a manos de los dioses.\
+        Como compensación por la muerte de su padre, Skadi exigió un esposo de entre los dioses y el \
+        derecho a hacerlos reír. Los dioses aceptaron, pero con la condición de que ella eligiera a \
+        su esposo solo viendo sus pies. Skadi eligió a Njord, el dios del mar, pensando que había elegido\
+        a Balder debido a sus pies hermosos. Aunque se casaron, su matrimonio fue infeliz debido a sus\
+        diferencias irreconciliables: Skadi amaba las montañas y el frío de su hogar en Thrymheim, mientras\
+        que Njord prefería el mar y la costa. Finalmente, acordaron separarse y vivir cada uno en su \
+        lugar de preferencia. A pesar de su separación, Skadi sigue siendo una figura importante en \
+        la mitología nórdica, simbolizando la fuerza y la resistencia de las fuerzas naturales. Es venerada\
+        como una diosa de la caza y del invierno, y su habilidad con el arco y el esquí la convierten\
+        en una figura respetada y temida entre los dioses y los mortales.</string>
+
+    <string name="Skadi_Power">Skadi es una diosa de la caza, el invierno y las montañas, y su poder\
+        se manifiesta en su control sobre estos elementos. Es una cazadora experta y una hábil arquera,\
+        lo que la convierte en una figura formidable en la mitología nórdica. Su conexión con las montañas\
+        y el frío la hace invulnerable a las duras condiciones invernales, y su habilidad para moverse \
+        a través del terreno nevado con esquís la distingue como una diosa de la resistencia y la fuerza. \
+        Skadi también tiene una fuerte conexión con los animales, especialmente los lobos y los osos, \
+        que a menudo se asocian con ella en las leyendas. Aunque no es una diosa guerrera en el sentido\
+        tradicional, su capacidad para sobrevivir y prosperar en los entornos más inhóspitos la convierte\
+        en un símbolo de independencia y determinación. Su poder también se refleja en su capacidad \
+        para influir en las condiciones climáticas, trayendo inviernos duros y nevados que representan\
+        su presencia en el mundo. Skadi es invocada por aquellos que buscan la fortaleza y el coraje \
+        necesarios para enfrentar desafíos difíciles, y es respetada tanto por su ferocidad como por\
+        su lealtad a la naturaleza salvaje.</string>
+
+    <string name="Skadi_Myth">Uno de los mitos más importantes sobre Skadi es su venganza por la muerte\
+        de su padre, Thjazi. Después de que los dioses de Asgard mataron a Thjazi, Skadi se armó y se \
+        presentó ante ellos, exigiendo compensación por su pérdida. Como parte de su acuerdo, Skadi \
+        eligió a Njord como esposo al ver solo sus pies, pero su matrimonio fue infeliz debido a sus \
+        diferencias irreconciliables: Skadi amaba las montañas frías de Thrymheim, mientras que Njord\
+        prefería el mar. Finalmente, se separaron, y Skadi regresó a las montañas que tanto amaba. Otro \
+        mito destacado es el castigo de Loki, donde Skadi juega un papel crucial. Después de que Loki\
+        fue capturado por sus crímenes contra los dioses, fue Skadi quien colocó una serpiente venenosa\
+        sobre su cabeza, un castigo que inflige dolor constante a Loki hasta el Ragnarok. Estos mitos\
+        subrayan la ferocidad y el sentido de justicia de Skadi, así como su conexión inquebrantable\
+        con el mundo natural y las fuerzas del invierno.</string>
+
+    <string name="Skadi_Relation">Skadi es la hija del gigante Thjazi, cuyo asesinato a manos de los \
+        dioses de Asgard la llevó a buscar venganza y luego convertirse en parte del panteón nórdico.\
+        Aunque es más conocida por su matrimonio fallido con Njord, un dios del mar con quien tuvo una\
+        relación marcada por las diferencias irreconciliables entre sus preferencias por las montañas\
+        y el mar, Skadi sigue siendo una figura independiente. A pesar de su separación de Njord, Skadi\
+        mantuvo su posición como una deidad importante, especialmente en lo que respecta al invierno,\
+        la caza y las montañas. No se le conocen hijos, y su relación con otros dioses es principalmente\
+        como una figura de respeto y temor debido a su fuerza y determinación. Skadi también desempeña\
+        un papel importante en el castigo de Loki, participando en su tormento después de que fue capturado \
+        por sus crímenes. Su relación con el panteón de dioses es compleja, marcada por una mezcla de \
+        venganza, integración y finalmente, independencia en su hogar en las montañas de Thrymheim.</string>
+    <string name="viking_god">Viking God</string>
+
+
+
+    //Gods History
+    <string name="Gods_History_Info">El Génesis del Cosmos:\n
+
+En el principio, existía solo Ginnungagap, el vasto abismo vacío que separaba Muspelheim, el reino del\
+        fuego, de Niflheim, el reino del hielo. De la colisión de estos dos elementos extremos, emergió\
+        Ymir, el primer ser viviente, un gigante ancestral cuyo cuerpo engendró a los primeros gigantes.\
+        Junto a él surgió Audhumla, la vaca cósmica, cuya leche alimentó a Ymir. Audhumla, al lamer bloques\
+        de hielo salado, liberó a Buri, el primer dios.
+
+Buri tuvo un hijo llamado Bor, quien se casó con Bestla, una gigante. Juntos, engendraron a tres hijos:\
+        Odin, Vili y Ve. Estos hermanos, dotados de poder y ambición, se rebelaron contra Ymir. En una\
+        batalla colosal, mataron a Ymir y usaron su cuerpo para formar el mundo: su carne se convirtió \
+        en la tierra, su sangre en los océanos, sus huesos en las montañas y su cráneo en el cielo. Así,\
+        de la muerte de Ymir, nació el orden del cosmos.
+
+\n
+        \nLos Æsir y los Vanir:\n
+        Dos Clanes de Dioses
+Los dioses vikingos se dividieron en dos clanes principales: los Æsir y los Vanir. Los Æsir, que habitaban\
+        en Asgard, eran los dioses de la guerra, el poder y la sabiduría. Entre ellos destacaban Odin,\
+        el Allfather, y su hijo Thor, el dios del trueno. Los Vanir, por otro lado, eran deidades de \
+        la fertilidad, la naturaleza y la prosperidad, y vivían en Vanaheim. Incluían figuras como Njord,\
+        Freya y Freyr.
+
+La relación entre estos dos clanes no fue siempre pacífica. Una gran guerra estalló entre los Æsir y \
+        los Vanir, una guerra cuyas razones exactas se han perdido en el tiempo, pero que se dice que \
+        surgió de conflictos de poder y desconfianza mutua. Sin embargo, tras un largo y agotador conflicto,\
+        ambos clanes se reconciliaron y establecieron una paz duradera. Como símbolo de esta paz, intercambiaron\
+        rehenes: Njord y sus hijos Freya y Freyr se unieron a los Æsir en Asgard, mientras que Hoenir\
+        y Mimir fueron enviados a Vanaheim.
+
+\n
+        \nAsgard:\n
+        El Reino de los Dioses
+Asgard, el hogar de los Æsir, es uno de los nueve mundos de la mitología nórdica. Conectado a Midgard\
+        (el mundo de los humanos) por el puente arcoíris Bifrost, Asgard era un reino de esplendor y\
+        poder. En su centro se erguía el Valhalla, el gran salón de los caídos, donde los guerreros \
+        muertos en combate eran recibidos por las valquirias para prepararse para la batalla final del\
+        Ragnarok.
+
+Odin, el rey de Asgard, era una figura compleja y multifacética. Conocido como el dios de la sabiduría,\
+        la guerra y la muerte, Odin sacrificó un ojo para beber del pozo de la sabiduría y se colgó de\
+        Yggdrasil, el árbol del mundo, durante nueve días y noches para aprender los secretos de las \
+        runas. Además de ser un líder guerrero, Odin era un incansable buscador de conocimiento.
+
+Thor, su hijo, era el protector de la humanidad contra las fuerzas del caos, principalmente los gigantes.\
+        Famoso por su gran fuerza y su martillo, Mjölnir, Thor podía invocar rayos y destruir a sus \
+        enemigos. Sus aventuras a menudo lo llevaban a tierras lejanas, enfrentando monstruos y gigantes\
+        en combates épicos.
+
+Freya, una de las diosas más prominentes de los Vanir que se unió a los Æsir, era la diosa del amor, \
+        la belleza y la fertilidad. También era una diosa guerrera, conocida por liderar a las valquirias\
+        y por su capacidad de manejar la magia y la hechicería. Freya poseía el collar mágico Brísingamen\
+        y viajaba en un carro tirado por gatos.
+
+\n
+        \nEl Equilibrio del Cosmos:\n
+
+La vida en Asgard no era solo de gloria y banquetes. Los dioses vikingos tenían que mantener un delicado\
+        equilibrio entre el orden y el caos. Este equilibrio era frecuentemente amenazado por Loki, el dios\
+        de la travesura. Aunque inicialmente un aliado de los Æsir, Loki era conocido por su naturaleza\
+        caprichosa y engañosa. Su capacidad de cambiar de forma y causar problemas tanto a dioses como\
+        a humanos lo hacía una figura impredecible y peligrosa. Sin embargo, sus acciones también desencadenaban\
+        eventos cruciales que mantenían el flujo de la narrativa mitológica.
+
+Loki es responsable de numerosas travesuras y catástrofes, incluyendo la muerte de Balder, el dios de\
+        la luz y la pureza. Su traición final, al causar la muerte de Balder, marcó el comienzo de una\
+        serie de eventos que llevarían al Ragnarok, el destino final de los dioses.
+
+\n
+        \nEl Ragnarok, el Crepúsculo de los Dioses:\n
+
+El Ragnarok, la "destino de los dioses", es uno de los conceptos más importantes en la mitología nórdica.\
+        Profetizado como el apocalipsis, el Ragnarok sería una serie de eventos cataclísmicos que culminarían\
+        en una batalla final entre los dioses y sus enemigos. Los signos del Ragnarok incluyen inviernos\
+        interminables, el colapso del puente Bifrost y la liberación de criaturas temibles como el lobo\
+        Fenrir y la serpiente Jörmungandr.
+
+Durante el Ragnarok, muchos de los dioses más importantes encontrarían su fin. Odin sería devorado por\
+        Fenrir, Thor perecería luchando contra Jörmungandr, y Loki y Heimdall se matarían mutuamente.\
+        El mundo ardería en llamas, pero de las cenizas surgirá un nuevo mundo, simbolizando la eterna\
+        renovación y el ciclo sin fin de destrucción y creación.</string>
+
+
+    //Myths
+    <string name="Gods_Myths">El Mito de la Creación: Yggdrasil y los Nueve Mundos
+En el principio, existía Ginnungagap, el vasto abismo vacío que separaba Muspelheim, el reino del fuego,\
+        de Niflheim, el reino del hielo. De la colisión de estos dos elementos extremos, emergió Ymir, el primer ser viviente, un gigante ancestral cuyo cuerpo engendró a los primeros gigantes. Junto a él surgió Audhumla, la vaca cósmica, cuya leche alimentó a Ymir. Audhumla, al lamer bloques de hielo salado, liberó a Buri, el primer dios. Buri tuvo un hijo llamado Bor, quien se casó con Bestla, una gigante. Juntos, engendraron a tres hijos: Odin, Vili y Ve. Estos hermanos se unieron para derrotar a Ymir, usando su cuerpo para crear el mundo: su carne se convirtió en la tierra, su sangre en los océanos, sus huesos en las montañas y su cráneo en el cielo.
+
+En el corazón de la cosmología nórdica se encuentra Yggdrasil, el árbol del mundo. Este enorme fresno\
+        conecta los nueve mundos de la mitología nórdica y es fundamental para la existencia del cosmos.\
+        Yggdrasil se extiende a través de todos los reinos, uniendo el cielo, la tierra y el inframundo.\
+        Las raíces de Yggdrasil llegan a tres pozos importantes: el pozo de Urd, el pozo de Mimir y el\
+        pozo de Hvergelmir. El pozo de Urd, guardado por las Nornas, las tejedoras del destino, es donde\
+        se decide el destino de dioses y hombres. El pozo de Mimir, custodiado por la cabeza decapitada\
+        de Mimir, es una fuente de sabiduría infinita. El pozo de Hvergelmir es la fuente primordial\
+        de todos los ríos.
+
+La Creación del Primer Hombre y la Primera Mujer
+Después de crear el mundo a partir del cuerpo de Ymir, los dioses Odin, Vili y Ve encontraron dos troncos\
+        de árboles en la costa. De estos troncos, crearon al primer hombre y la primera mujer, Ask y Embla.\
+        Odin les dio el aliento de vida, Vili les otorgó la razón y la emoción, y Ve les dio los sentidos y\
+        la apariencia física. Ask y Embla se convirtieron en los progenitores de la humanidad, habitando\
+        en Midgard, el mundo de los humanos, protegido por los dioses.
+
+La Construcción de Asgard
+Los dioses decidieron construir una fortaleza tan fuerte que pudiera protegerlos de los gigantes. Un\
+        constructor se ofreció a hacerlo en un plazo de tres años a cambio de la diosa Freya, el sol \
+        y la luna. Los dioses, confiando en que sería imposible, aceptaron, pero solo si podía terminar\
+        la construcción en un solo invierno. El constructor pidió ayuda a su poderoso caballo Svadilfari.\
+        A medida que el invierno avanzaba, los dioses se dieron cuenta de que el constructor iba a cumplir\
+        su tarea a tiempo. Loki, para evitar que perdieran a Freya, el sol y la luna, se transformó en\
+        una yegua y distrajo a Svadilfari. Sin la ayuda de su caballo, el constructor no pudo terminar\
+        a tiempo, revelándose como un gigante disfrazado, y Thor lo mató con su martillo Mjölnir.
+
+El Banquete de Aegir
+Aegir, el dios del mar, era conocido por sus banquetes legendarios a los que invitaba a todos los dioses.\
+        Durante uno de estos banquetes, Loki causó problemas, insultando a los dioses y causando discordia.\
+        Enfurecido, Odin ordenó a Thor que capturara a Loki. Tras una serie de aventuras y engaños, Loki\
+        fue capturado y llevado a juicio. Los dioses decidieron su castigo: sería atado con las entrañas\
+        de su hijo, con una serpiente venenosa sobre su cabeza. Este mito no solo muestra la capacidad\
+        de los dioses para celebrar y disfrutar, sino también la gravedad de la traición y el castigo\
+        en la sociedad vikinga.
+
+El Viaje de Thor a Utgard
+En una de sus muchas aventuras, Thor y su compañero Loki viajaron a Jotunheim, la tierra de los gigantes.\
+        Durante su viaje, se encontraron con una serie de desafíos que pusieron a prueba sus habilidades\
+        y su astucia. En particular, llegaron a la fortaleza de Utgard, donde el rey gigante, Utgard-Loki,\
+        los sometió a varias pruebas aparentemente imposibles, incluyendo comer y beber en exceso, \
+        levantar un enorme gato y luchar contra una anciana. Al final, Thor descubrió que todo había\
+        sido una ilusión mágica diseñada para humillarlo y demostrar la superioridad de los gigantes.
+
+El Robo del Martillo de Thor
+Una mañana, Thor se despertó y descubrió que su poderoso martillo, Mjölnir, había desaparecido. Desesperado,\
+        fue a consultar a Loki, el dios del engaño, quien sugirió que buscaran entre los gigantes. Loki,\
+        usando su capacidad de cambiar de forma, se transformó en un halcón y voló al reino de los gigantes.\
+        Descubrió que Thrym había escondido el martillo y solo lo devolvería si Freya, la diosa del \
+        amor y la belleza, se casaba con él. Freya, indignada, se negó rotundamente. Entonces, los dioses\
+        idearon un plan: Thor se disfrazaría de novia y Loki, disfrazado de sirvienta, lo acompañaría.\
+        Durante el banquete de bodas, Thrym colocó Mjölnir en el regazo de "Freya" para consagrar la\
+        unión. Thor, revelando su verdadera identidad, tomó el martillo y derrotó a Thrym y a todos \
+        los gigantes presentes.
+
+El Juicio de los Dioses
+Un día, un gigante llamado Hrungnir se emborrachó y se jactó en Asgard, afirmando que podría destruir \
+        a los dioses. Thor, enfurecido, lo retó a un duelo. En la batalla, Thor lanzó su martillo Mjölnir\
+        mientras Hrungnir lanzaba su piedra de afilar. Mjölnir destrozó la piedra y mató a Hrungnir, \
+        pero una esquirla de la piedra se incrustó en la cabeza de Thor. Aunque sobrevivió, Thor tuvo\
+        que vivir con la esquirla en su cabeza, un recordatorio de la batalla épica. Este mito destaca \
+        la valentía y la fuerza de Thor, así como los peligros que los dioses enfrentaban.
+
+Freya y el Collar Brísingamen
+Freya, la diosa del amor y la belleza, poseía un collar mágico llamado Brísingamen, que era símbolo \
+        de su poder y atractivo. Un día, Freya encontró a cuatro enanos que estaban forjando el collar\
+        y quedó tan encantada que quiso tenerlo. Los enanos acordaron dárselo solo si pasaba una noche\
+        con cada uno de ellos. Freya aceptó, y así obtuvo Brísingamen, que se convirtió en uno de sus\
+        símbolos más preciados. Este mito refleja el valor que los vikingos daban a la belleza y la magia,\
+        así como la disposición de Freya para hacer sacrificios por lo que deseaba.
+
+El Cautiverio de Fenrir
+Fenrir, el lobo gigante, hijo de Loki y la gigante Angrboda, creció rápidamente y se volvió una amenaza\
+        para los dioses. Para controlarlo, los dioses decidieron encadenarlo. Intentaron varias veces\
+        con cadenas hechas de metal, pero Fenrir rompía cada una de ellas con facilidad. Finalmente,\
+        los dioses pidieron a los enanos que forjaran una cadena especial llamada Gleipnir, hecha de\
+        seis ingredientes mágicos: el sonido de los pasos de un gato, la barba de una mujer, las raíces\
+        de una montaña, los tendones de un oso, el aliento de un pez y la saliva de un pájaro. Gleipnir\
+        parecía una cinta de seda pero era irrompible. Desconfiado, Fenrir aceptó ser atado solo si \
+        uno de los dioses ponía su mano en su boca como señal de buena fe. Tyr, el dios de la guerra \
+        y la justicia, aceptó el desafío. Cuando Fenrir descubrió que no podía romper Gleipnir, mordió\
+        la mano de Tyr, arrancándosela. Fenrir fue entonces atado a una roca y una espada fue colocada\
+        en su boca para mantenerla abierta, donde permanecería hasta el Ragnarok.
+
+La Muerte de Balder
+Balder, el dios de la luz y la pureza, era amado por todos los dioses y seres vivos. Sin embargo, tuvo\
+        un sueño profético sobre su propia muerte, lo que preocupó profundamente a su madre, Frigg. \
+        Para protegerlo, Frigg hizo que todos los seres vivos e inanimados juraran no hacerle daño a\
+        Balder, excepto el muérdago, que consideró inofensivo. Loki, el embaucador, descubrió esta omisión\
+        y fabricó una flecha de muérdago. Engañó a Hod, el hermano ciego de Balder, para que la lanzara\
+        durante un juego en el que los dioses arrojaban objetos inofensivos a Balder por diversión. La\
+        flecha atravesó el corazón de Balder, matándolo al instante. La muerte de Balder sumió a Asgard\
+        en el luto y marcó el comienzo de los eventos que llevarían al Ragnarok.
+
+El Castigo de Loki
+Tras la muerte de Balder, los dioses capturaron a Loki, quien se había escondido en una cueva. Como \
+        castigo, lo ataron a tres rocas con las entrañas de su propio hijo y colocaron una serpiente\
+        venenosa sobre su cabeza. El veneno de la serpiente caía sobre el rostro de Loki, causándole \
+        un dolor insoportable. Su fiel esposa, Sigyn, se quedó a su lado, sosteniendo un cuenco para \
+        recoger el veneno. Sin embargo, cada vez que tenía que vaciar el cuenco, el veneno caía sobre\
+        Loki, haciéndolo retorcerse de dolor y provocando terremotos en la tierra. Este castigo duraría\
+        hasta el Ragnarok, cuando Loki se liberaría para luchar en la batalla final.
+
+El Ragnarok: El Fin y el Renacimiento
+El Ragnarok, el "destino de los dioses", es el evento apocalíptico que profetiza la destrucción del \
+        mundo y su posterior renacimiento. Se dice que será precedido por un invierno interminable y\
+        grandes conflictos. Durante el Ragnarok, los dioses lucharán contra sus enemigos en una batalla\
+        final. Odin caerá ante el lobo Fenrir, Thor matará a la serpiente Jörmungandr pero sucumbirá\
+        a su veneno, y Loki y Heimdall se matarán mutuamente. Al final, el fuego consumirá el mundo, \
+        pero de las cenizas surgirá un nuevo y fértil mundo, donde los supervivientes repoblarán la \
+        tierra y un nuevo ciclo de vida comenzará. Este mito es central en la mitología nórdica, representando\
+        tanto el fin como el renacimiento, y el ciclo eterno de la vida y la muerte.</string>
+
+
+    //Myths
+    <string name="m_Yggdrasil">En el principio, existía Ginnungagap, el vasto abismo vacío que separaba\
+        Muspelheim, el reino del fuego, de Niflheim, el reino del hielo. De la colisión de estos dos\
+        elementos extremos, emergió Ymir, el primer ser viviente, un gigante ancestral cuyo cuerpo engendró\
+        a los primeros gigantes. Junto a él surgió Audhumla, la vaca cósmica, cuya leche alimentó a Ymir.\
+        Audhumla, al lamer bloques de hielo salado, liberó a Buri, el primer dios. Buri tuvo un hijo \
+        llamado Bor, quien se casó con Bestla, una gigante. Juntos, engendraron a tres hijos: Odin, Vili\
+        y Ve. Estos hermanos se unieron para derrotar a Ymir, usando su cuerpo para crear el mundo: \
+        su carne se convirtió en la tierra, su sangre en los océanos, sus huesos en las montañas y su \
+        cráneo en el cielo. En el corazón de la cosmología nórdica se encuentra Yggdrasil, el árbol \
+        del mundo. Este enorme fresno conecta los nueve mundos de la mitología nórdica y es fundamental\
+        para la existencia del cosmos. Yggdrasil se extiende a través de todos los reinos, uniendo el\
+        cielo, la tierra y el inframundo. Las raíces de Yggdrasil llegan a tres pozos importantes: el \
+        pozo de Urd, el pozo de Mimir y el pozo de Hvergelmir. El pozo de Urd, guardado por las Nornas,\
+        las tejedoras del destino, es donde se decide el destino de dioses y hombres. El pozo de Mimir,\
+        custodiado por la cabeza decapitada de Mimir, es una fuente de sabiduría infinita. El pozo de\
+        Hvergelmir es la fuente primordial de todos los ríos.</string>
+    
+    
+    <string name="m_firstMan">En el corazón de la cosmología nórdica se encuentra Yggdrasil, el árbol\
+        del mundo. Este enorme fresno conecta los nueve mundos de la mitología nórdica y es fundamental\
+        para la existencia del cosmos. Yggdrasil se extiende a través de todos los reinos, uniendo el\
+        cielo, la tierra y el inframundo. Las raíces de Yggdrasil llegan a tres pozos importantes: el\
+        pozo de Urd, el pozo de Mimir y el pozo de Hvergelmir. El pozo de Urd, guardado por las Nornas,\
+        las tejedoras del destino, es donde se decide el destino de dioses y hombres. El pozo de Mimir,\
+        custodiado por la cabeza decapitada de Mimir, es una fuente de sabiduría infinita. El pozo de \
+        Hvergelmir es la fuente primordial de todos los ríos.</string>
+    
+    
+    <string name="m_Asgard">Los dioses decidieron construir una fortaleza tan fuerte que pudiera protegerlos\
+        de los gigantes. Un constructor se ofreció a hacerlo en un plazo de tres años a cambio de la \
+        diosa Freya, el sol y la luna. Los dioses, confiando en que sería imposible, aceptaron, pero \
+        solo si podía terminar la construcción en un solo invierno. El constructor pidió ayuda a su\
+        poderoso caballo Svadilfari. A medida que el invierno avanzaba, los dioses se dieron cuenta \
+        de que el constructor iba a cumplir su tarea a tiempo. Loki, para evitar que perdieran a Freya,\
+        el sol y la luna, se transformó en una yegua y distrajo a Svadilfari. Sin la ayuda de su caballo,\
+        el constructor no pudo terminar a tiempo, revelándose como un gigante disfrazado, y Thor lo mató\
+        con su martillo Mjölnir.</string>
+
+
+    <string name="m_aegir">Aegir, el dios del mar, era conocido por sus banquetes legendarios a los que\
+        invitaba a todos los dioses. Durante uno de estos banquetes, Loki causó problemas, insultando \
+        a los dioses y causando discordia. Enfurecido, Odin ordenó a Thor que capturara a Loki. Tras\
+        una serie de aventuras y engaños, Loki fue capturado y llevado a juicio. Los dioses decidieron \
+        su castigo: sería atado con las entrañas de su hijo, con una serpiente venenosa sobre su cabeza.\
+        Este mito no solo muestra la capacidad de los dioses para celebrar y disfrutar, sino también la\
+        gravedad de la traición y el castigo en la sociedad vikinga.</string>
+
+    
+    <string name="m_utgard">En una de sus muchas aventuras, Thor y su compañero Loki viajaron a Jotunheim,\
+        la tierra de los gigantes. Durante su viaje, se encontraron con una serie de desafíos que pusieron\
+        a prueba sus habilidades y su astucia. En particular, llegaron a la fortaleza de Utgard, donde\
+        el rey gigante, Utgard-Loki, los sometió a varias pruebas aparentemente imposibles, incluyendo\
+        comer y beber en exceso, levantar un enorme gato y luchar contra una anciana. Al final, Thor\
+        descubrió que todo había sido una ilusión mágica diseñada para humillarlo y demostrar la superioridad\
+        de los gigantes.</string>
+    
+
+    <string name="m_ThorHarmer">Una mañana, Thor se despertó y descubrió que su poderoso martillo, Mjölnir,\
+        había desaparecido. Desesperado, fue a consultar a Loki, el dios del engaño, quien sugirió que\
+        buscaran entre los gigantes. Loki, usando su capacidad de cambiar de forma, se transformó en\
+        un halcón y voló al reino de los gigantes. Descubrió que Thrym había escondido el martillo y \
+        solo lo devolvería si Freya, la diosa del amor y la belleza, se casaba con él. Freya, indignada,\
+        se negó rotundamente. Entonces, los dioses idearon un plan: Thor se disfrazaría de novia y Loki,\
+        disfrazado de sirvienta, lo acompañaría. Durante el banquete de bodas, Thrym colocó Mjölnir en\
+        el regazo de "Freya" para consagrar la unión. Thor, revelando su verdadera identidad, tomó el \
+        martillo y derrotó a Thrym y a todos los gigantes presentes.</string>
+    
+
+    <string name="m_godJudgment">Un día, un gigante llamado Hrungnir se emborrachó y se jactó en Asgard,\
+        afirmando que podría destruir a los dioses. Thor, enfurecido, lo retó a un duelo. En la batalla,\
+        Thor lanzó su martillo Mjölnir mientras Hrungnir lanzaba su piedra de afilar. Mjölnir destrozó\
+        la piedra y mató a Hrungnir, pero una esquirla de la piedra se incrustó en la cabeza de Thor.\
+        Aunque sobrevivió, Thor tuvo que vivir con la esquirla en su cabeza, un recordatorio de la batalla \
+        épica. Este mito destaca la valentía y la fuerza de Thor, así como los peligros que los dioses\
+        enfrentaban.</string>
+
+
+    <string name="m_freyaNecklace">Freya, la diosa del amor y la belleza, poseía un collar mágico llamado\
+        Brísingamen, que era símbolo de su poder y atractivo. Un día, Freya encontró a cuatro enanos \
+        que estaban forjando el collar y quedó tan encantada que quiso tenerlo. Los enanos acordaron \
+        dárselo solo si pasaba una noche con cada uno de ellos. Freya aceptó, y así obtuvo Brísingamen,\
+        que se convirtió en uno de sus símbolos más preciados. Este mito refleja el valor que los vikingos \
+        daban a la belleza y la magia, así como la disposición de Freya para hacer sacrificios por lo\
+        que deseaba.</string>
+
+
+    <string name="m_fenrir">Fenrir, el lobo gigante, hijo de Loki y la gigante Angrboda, creció rápidamente\
+        y se volvió una amenaza para los dioses. Para controlarlo, los dioses decidieron encadenarlo.\
+        Intentaron varias veces con cadenas hechas de metal, pero Fenrir rompía cada una de ellas con\
+        facilidad. Finalmente, los dioses pidieron a los enanos que forjaran una cadena especial llamada \
+        Gleipnir, hecha de seis ingredientes mágicos: el sonido de los pasos de un gato, la barba de\
+        una mujer, las raíces de una montaña, los tendones de un oso, el aliento de un pez y la saliva\
+        de un pájaro. Gleipnir parecía una cinta de seda pero era irrompible. Desconfiado, Fenrir aceptó\
+        ser atado solo si uno de los dioses ponía su mano en su boca como señal de buena fe. Tyr, el dios \
+        de la guerra y la justicia, aceptó el desafío. Cuando Fenrir descubrió que no podía romper Gleipnir,\
+        mordió la mano de Tyr, arrancándosela. Fenrir fue entonces atado a una roca y una espada fue \
+        colocada en su boca para mantenerla abierta, donde permanecería hasta el Ragnarok.</string>
+
+
+    <string name="m_Balder">Balder, el dios de la luz y la pureza, era amado por todos los dioses y seres\
+        vivos. Sin embargo, tuvo un sueño profético sobre su propia muerte, lo que preocupó profundamente\
+        a su madre, Frigg. Para protegerlo, Frigg hizo que todos los seres vivos e inanimados juraran\
+        no hacerle daño a Balder, excepto el muérdago, que consideró inofensivo. Loki, el embaucador, \
+        descubrió esta omisión y fabricó una flecha de muérdago. Engañó a Hod, el hermano ciego de Balder,\
+        para que la lanzara durante un juego en el que los dioses arrojaban objetos inofensivos a Balder\
+        por diversión. La flecha atravesó el corazón de Balder, matándolo al instante. La muerte de \
+        Balder sumió a Asgard en el luto y marcó el comienzo de los eventos que llevarían al Ragnarok.</string>
+
+
+    <string name="m_loki">Tras la muerte de Balder, los dioses capturaron a Loki, quien se había escondido\
+        en una cueva. Como castigo, lo ataron a tres rocas con las entrañas de su propio hijo y colocaron \
+        una serpiente venenosa sobre su cabeza. El veneno de la serpiente caía sobre el rostro de Loki,\
+        causándole un dolor insoportable. Su fiel esposa, Sigyn, se quedó a su lado, sosteniendo un \
+        cuenco para recoger el veneno. Sin embargo, cada vez que tenía que vaciar el cuenco, el veneno\
+        caía sobre Loki, haciéndolo retorcerse de dolor y provocando terremotos en la tierra. Este castigo\
+        duraría hasta el Ragnarok, cuando Loki se liberaría para luchar en la batalla final.</string>
+
+
+    <string name="m_ragnarok">El Ragnarok, el "destino de los dioses", es el evento apocalíptico que \
+        profetiza la destrucción del mundo y su posterior renacimiento. Se dice que será precedido por \
+        un invierno interminable y grandes conflictos. Durante el Ragnarok, los dioses lucharán contra\
+        sus enemigos en una batalla final. Odin caerá ante el lobo Fenrir, Thor matará a la serpiente\
+        Jörmungandr pero sucumbirá a su veneno, y Loki y Heimdall se matarán mutuamente. Al final, el\
+        fuego consumirá el mundo, pero de las cenizas surgirá un nuevo y fértil mundo, donde los supervivientes\
+        repoblarán la tierra y un nuevo ciclo de vida comenzará. Este mito es central en la mitología \
+        nórdica, representando tanto el fin como el renacimiento, y el ciclo eterno de la vida y la \
+        muerte.</string>
+
+
+</resources>
